@@ -1,2 +1,2 @@
-# Algoritmos-de-Engenharia-Civil
-Algoritmos criados em Python para solucionar problemas de Engenharia Civil de maneira automática.
+# Mensagem Importante!
+Todos os algoritmos presentes neste repositório estão cobertos pela licença vigente no momento.
