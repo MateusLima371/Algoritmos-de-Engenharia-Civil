@@ -6,3 +6,4 @@
 5- Execute o algoritmo  
 OBS: O arquivo MEF.ipynb está com as saídas de dados referente aos dados de entrada dos arquivos .csv  
 Lembre-se de preencher de acordo com o seu problema, assim como manda o item 2
+OBS: O algoritmo refre-se somente a problemas em um plano 2D
